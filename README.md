@@ -2,6 +2,8 @@
 
 An original, open-source Next.js landing-page template for applied AI products. Brightmatter combines bright editorial colour fields, cinematic imagery, expressive typography, and restrained input-driven motion.
 
+![Brightmatter landing page preview](docs/brightmatter-preview.png)
+
 Created by Anthony Young and released under the MIT License.
 
 ## Features
